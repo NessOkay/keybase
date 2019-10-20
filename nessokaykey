@@ -1,0 +1,66 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am nessokay on github.
+  * I am nessokay777 (https://keybase.io/nessokay777) on keybase.
+  * I have a public key ASAIty_q3v2GdIZp_x2Npi7m70gO47ANg2MLpmlez1wKFwo
+
+To claim this, I am signing this object:
+
+json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012008b72feadefd86748669ff1d8da62ee6ef480ee3b00d83630ba6695ecf5c0a170a",
+      "host": "keybase.io",
+      "kid": "012008b72feadefd86748669ff1d8da62ee6ef480ee3b00d83630ba6695ecf5c0a170a",
+      "uid": "d917e1cac4e2f7074c92174d6aa02719",
+      "username": "nessokay777"
+    },
+    "merkle_root": {
+      "ctime": 1571540179,
+      "hash": "b626ce34820a7f44be82c7d0bb4d69e7c6a6ae1a80b986e211dd9973850c9848c4aa37e674b54c9025fe5a744ab7079441a20e0b2d58520fecd6057cffeec7a0",
+      "hash_meta": "fa236d843331798fcd729f3162710a40904036ba9118594957cd9fe1d829f71b",
+      "seqno": 8254975
+    },
+    "service": {
+      "entropy": "behk4+8mYQ1Q7rl+pA1roDlY",
+      "name": "github",
+      "username": "nessokay"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.6.0"
+  },
+  "ctime": 1571540201,
+  "expire_in": 504576000,
+  "prev": "5f4f4f78a5d37e6e96efd0ad42ac621dd1972f280c00341377ae04fa39e055c3",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+
+with the key ASAIty_q3v2GdIZp_x2Npi7m70gO47ANg2MLpmlez1wKFwo (https://keybase.io/nessokay777), yielding the signature:
+
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgCLcv6t79hnSGaf8djaYu5u9IDuOwDYNjC6ZpXs9cChcKp3BheWxvYWTESpcCBcQgX09PeKXTfm6W79CtQqxiHdGXLygMADQTd64E+jngVcPEIE+OvMURnCXTYD8kwHWrgP3qGMDCMrh2PilTPeQ4Ei0qAgHCo3NpZ8RAp/i3XfXYGWkCAbjK1R1Rrq/WBwlbkbrWYxqqDusQO0kbDuKqDGmsfWUQRflhyAdOZy3THQyKuZaU3KGG2oy9CahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHsiA6lrG4DSfUkVbYmBY0zmbz2wdqly/akS9OidshwTo3RhZ80CAqd2ZXJzaW9uAQ==
+
+
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/nessokay777
+
+### From the command line:
+
+Consider the keybase command line program (https://keybase.io/download).
+
+bash
+# look me up
+keybase id nessokay777
